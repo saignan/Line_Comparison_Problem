@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            //UseCase1
+            UseCase1.UC1();
         }
     }
 }
