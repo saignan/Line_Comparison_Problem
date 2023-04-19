@@ -5,7 +5,10 @@
         static void Main(string[] args)
         {
             //UseCase1
-            UseCase1.UC1();
+            //UseCase1.UC1();
+
+            //UseCase2
+            UseCase2.UC2();
         }
     }
 }
